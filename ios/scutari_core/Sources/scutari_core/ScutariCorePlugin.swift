@@ -1,7 +1,7 @@
 import Flutter
 import UIKit
 import Metal
-import os.proc
+import os
 
 public class ScutariCorePlugin: NSObject, FlutterPlugin {
   public static func register(with registrar: FlutterPluginRegistrar) {
